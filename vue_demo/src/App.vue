@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Vue CRUD</h1>
+    <h1>Vue</h1>
     <input v-model="newItem" placeholder="Add item" />
     <button @click="addItem">Add Item</button>
     <ul>
