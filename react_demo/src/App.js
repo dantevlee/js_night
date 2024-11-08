@@ -19,7 +19,7 @@ function App() {
 
   return (
     <div>
-      <h1>React CRUD</h1>
+      <h1>React</h1>
       <input value={newItem} onChange={(e) => setNewItem(e.target.value)} />
       <button onClick={handleAdd}>Add Item</button>
       <ul>

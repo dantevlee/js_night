@@ -17,7 +17,7 @@
 </script>
 
 <div>
-  <h1>Svelte CRUD</h1>
+  <h1>Svelte</h1>
   <input bind:value={newItem} placeholder="Add item" />
   <button on:click={addItem}>Add Item</button>
   <ul>
